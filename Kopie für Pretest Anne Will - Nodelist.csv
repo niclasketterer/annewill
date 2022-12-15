@@ -18,13 +18,13 @@ rh,Robert Habeck,GRÜNE,Politik,Deutschland
 cm,Claudia Major,Andere,Wissenschaft,Deutschland
 kp,Katja Petrowskaja,Andere,Literatur,Ukraine
 rk,Roderich Kiesewetter,CDU,Politik,Deutschland
-500,Folge 500,,,
-501,Folge 501,,,
-502,Folge 502,,,
-503,Folge 503,,,
-11,CDU,CDU,,
-22,FDP,FDP,,
-33,SPD,SPD,,
-44,GRÜNE,GRÜNE,,
-55,LINKE,LINKE,,
-66,Andere,KEINE PARTEI,,
+500,Folge 500,NA,NA,NA
+501,Folge 501,NA,NA,NA
+502,Folge 502,NA,NA,NA
+503,Folge 503,NA,NA,NA
+CDU,CDU,CDU,NA,NA
+FDP,FDP,FDP,NA,NA
+SPD,SPD,SPD,NA,NA
+GRUENE,GRÜNE,GRÜNE,NA,NA
+LINKE,LINKE,LINKE,NA,NA
+KEINE,Keine Partei,Keine Partei,NA,NA
